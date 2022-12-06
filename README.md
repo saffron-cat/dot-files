@@ -1,5 +1,9 @@
-# Welcome to GitHub Desktop!
+# Mac Setup!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## 1. Install: Homebrew 
+[The Missing Package Manager for macOS (or Linux)](https://docs.brew.sh/Manpage)
+
+        /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+## 2. 
