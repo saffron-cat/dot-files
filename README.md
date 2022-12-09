@@ -61,6 +61,9 @@ Takes you to the installation page. Select 'Apple Silicon'.
 [Install](https://desktop.github.com)
 Takes you to the installation page. Select 'Apple Silicon'.
 
+##6. Install Custom Font
+
+Unzip FiraCode and move the folder into fontbook.app
 
 
 
