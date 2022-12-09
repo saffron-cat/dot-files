@@ -1,0 +1,39 @@
+format = """
+$username\
+$hostname\
+$directory\
+$cmd_duration"""
+
+# ~/.config/starship.toml
+
+[cmd_duration]
+min_time = 1
+show_milliseconds = true
+style = "bold cyan"
+format = "[$duration]($style)"
+
+[username]
+style_user = "bold purple"
+style_root = "bold cyan"
+format = "[ $user |]($style)"
+disabled = false
+show_always = true
+
+[hostname]
+ssh_only = true
+ssh_symbol = ""
+format = "[$ssh_symbol](bold blue) on [$hostname](bold red)"
+trim_at = ".companyname.com"
+disabled = false
+
+[directory]
+truncation_length = 6
+truncation_symbol = ""
+home_symbol = " "
+style = "bold red"
+read_only_style = "cyan"
+read_only = ""
+format = "[ $path | ]($style)[$read_only]($read_only_style)"
+
+[fill]
+symbol = " "
