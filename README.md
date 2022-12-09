@@ -45,25 +45,29 @@ E. Place the included 'keybindings.yaml' in:
 F. Place the included 'starship.toml' in:
 
         ~/.config
-        
- ##3. Install PyCharm
+
+G. Unzip FiraCode and move the folder into fontbook.app
+# Install Latest Build of Each coding tool.
+
+### Install Python
+ 
+[Install](https://www.python.org/downloads/macos/)
+ 
+### Install PyCharm
  
 [Install](https://www.jetbrains.com/pycharm/download/#section=mac)
-Takes you to the installation page. Select 'Apple Silicon'.
 
-##4. Install Visual Studio
+### Install Visual Studio
 
 [Install](https://code.visualstudio.com/download)
-Takes you to the installation page. Select 'Apple Silicon'.
 
-##5. Install Github
+### Install Github Desktop
 
 [Install](https://desktop.github.com)
-Takes you to the installation page. Select 'Apple Silicon'.
 
-##6. Install Custom Font
 
-Unzip FiraCode and move the folder into fontbook.app
+
+
 
 
 
